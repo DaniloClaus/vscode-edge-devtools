@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    body {
+      background-color: black;
+      color: white;
+      font-family: Arial, sans-serif;
+    }
+
+    header {
+      display: flex;
+      align-items: center;
+      padding: 20px;
+    }
+
+    .logo {
+      margin-right: 20px;
+    }
+
+    .content {
+      padding: 20px;
+    }
+
+    .chat {
+      background-color: white;
+      color: black;
+      padding: 20px;
+      border: 1px solid black;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .message {
+      margin-bottom: 20px;
+    }
+
+    .user-message {
+      align-self: flex-end;
+      background-color: lightgray;
+    }
+
+    .developer-message {
+      align-self: flex-start;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <img class="logo" src="" alt="Logo">
+    <h1></h1>
+  </header>
+  <div class="content">
+    
+    <div style="text-align: center; font-size: 20px; color: white;">
+      A vida homossexual saudável e responsável se refere ao estilo de vida dos indivíduos LGBTQ+ que buscam cuidar de sua saúde física e emocional, bem como de suas relações interpessoais de forma equilibrada e consciente. Isso inclui práticas saudáveis, como alimentação adequada, exercícios físicos e cuidados com a saúde mental, assim como o desenvolvimento de relacionamentos respeitosos e baseados na confiança e no amor.
+    </div>
+   <br>
+      <p><div style="display: inline-block; background: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet); padding: 20px; box-shadow: 5px 5px 10px #888888;">
+    <p style="font-size: 22px; color: white; text-align: center;">
+      A diversidade LGBTIQ+ é a variedade de orientações sexuais e identidades de gênero presentes na sociedade e deve ser celebrada e respeitada. Infelizmente, ainda há discriminação e preconceito contra essas pessoas, o que pode levar a exclusão e violência. A orientação sexual e a identidade de gênero são aspectos inatos e não há nada errado em ser diferente. É responsabilidade de todos lutar pela igualdade e fim da discriminação, através da educação e defesa dos direitos humanos. Ao aceitarmos a diversidade LGBTIQ+, estamos construindo uma sociedade mais inclusiva e respeitosa para todos.
+    </p>
+  </div>
+  </p>
+  <p style="font-size: 22px; text-align: center;">
+    <b>Importância da Busca por Informações sobre Direitos LGBTIQ+</b>
+  </p>
+  <p style="font-size: 18px; text-indent: 50px;">
+    A luta por direitos e igualdade para pessoas LGBTIQ+ é uma questão importante e constante na sociedade. No entanto, a falta de informação e compreensão ainda é uma barreira para o progresso na luta por direitos e aceitação. É importante buscar informações sobre os direitos LGBTIQ+ para entender a situação atual e como podemos contribuir para a mudança.
+  </p>
+  <p style="font-size: 18px; text-indent: 50px;">
+    Informar-se sobre os direitos LGBTIQ+ permite a sensibilização e compreensão das desigualdades e discriminações enfrentadas por essas pessoas. Isso ajuda a combater o preconceito e a construir uma sociedade mais inclusiva e justa. Além disso, informações sobre os direitos LGBTIQ+ também ajudam na defesa dos direitos humanos e na luta por mudanças legislativas e sociais.
+  </p>
+  <p style="font-size: 18px; text-indent: 50px;">
+    A busca por informações sobre direitos LGBTIQ+ também é importante para pessoas LGBTIQ+ que buscam informações sobre seus direitos e como defendê-los. Essas informações podem ajudar a construir uma comunidade mais forte e unida, capacitando as pessoas a lutarem pelos seus direitos e promoverem a igualdade.
+  </p>
+  <p style="font-size: 18px; text-align: center;">
+    <i>Vamos juntos buscar informações e lutar pela igualdade e direitos das pessoas LGBTIQ+!</i>
+  </p>
+  <p style="font-size: 22px; text-align: center;">
+    <b>Importância da Busca por Informações sobre Direitos LGBTIQ+</b>
+  </p>
+  <p style="font-size: 18px; text-indent: 50px;">
+    A luta por direitos e igualdade para pessoas LGBTIQ+ é uma questão importante e constante na sociedade. No entanto, a falta de informação e compreensão ainda é uma barreira para o progresso na luta por direitos e aceitação. É importante buscar informações sobre os direitos LGBTIQ+ para entender a situação atual e como podemos contribuir para a mudança.
+  </p>
+  <p style="font-size: 18px; text-indent: 50px;">
+    Informar-se sobre os direitos LGBTIQ+ permite a sensibilização e compreensão das desigualdades e discriminações enfrentadas por essas pessoas. Isso ajuda a combater o preconceito e a construir uma sociedade mais inclusiva e justa. Além disso, informações sobre os direitos LGBTIQ+ também ajudam na defesa dos direitos humanos e na luta por mudanças legislativas e sociais.
+  </p>
+  <p style="font-size: 18px; text-indent: 50px;">
+    A busca por informações sobre direitos LGBTIQ+ também é importante para pessoas LGBTIQ+ que buscam informações sobre seus direitos e como defendê-los. Essas informações podem ajudar a construir uma comunidade mais forte e unida, capacitando as pessoas a lutarem pelos seus direitos e promoverem a igualdade.
+  </p>
+  <p style="font-size: 18px; text-align: center;">
+    <i>Vamos juntos buscar informações e lutar pela igualdade e direitos das pessoas LGBTIQ+!</i>
+  </p>
+  <p style="font-size: 22px; text-align: center;">
+    <b>Auto-Conhecimento sobre Orientação Sexual</b>
+  </p>
+  <p style="font-size: 18px; text-indent: 50px;">
+    A jornada de auto-descoberta é fundamental para a realização pessoal e o bem-estar emocional. No caso da orientação sexual, compreender e aceitar a si mesmo é essencial para uma vida plena e saudável.
+  </p>
+  <p style="font-size: 18px; text-indent: 50px;">
+    Infelizmente, a sociedade ainda tem muitos estereótipos e preconceitos sobre orientação sexual, o que pode levar a ansiedade, medo e confusão para muitas pessoas. É importante que cada indivíduo tenha o tempo e o espaço para explorar sua orientação sexual e desenvolver uma identidade verdadeira e autêntica.
+  </p>
+  <p style="font-size: 18px; text-indent: 50px;">
+    Auto-conhecimento sobre orientação sexual também é importante para as relações pessoais e profissionais. Compreender a si mesmo e a orientação sexual pode ajudar a construir relações saudáveis e honestas com os outros, bem como a criar um ambiente de trabalho inclusivo e respeitoso.
+  </p>
+  <p style="font-size: 18px; text-indent: 50px;">
+    É importante lembrar que cada pessoa tem o direito de escolher seu próprio caminho e tempo de auto-descoberta. Não há certo ou errado, apenas o que é certo para cada indivíduo. Portanto, é fundamental respeitar as escolhas e decisões de cada pessoa em relação ao seu auto-conhecimento sobre orientação sexual.
+  </p>
+  <p style="font-size: 18px; text-align: center;">
+    <i>Esteja presente e respeite a jornada de auto-conhecimento de cada pessoa sobre sua orientação sexual.</i>
+  </p>
+  <p style="font-size: 22px; text-align: center;">
+    <b>Descoberta Hilariante</b>
+  </p>
+  <p style="font-size: 18px; text-indent: 50px;">
+    A jornada de auto-descoberta pode ser uma montanha-russa de emoções. Às vezes é uma aventura cheia de descobertas incríveis, outras vezes é uma série de desafios desafiadores.
+  </p>
+  <p style="font-size: 18px; text-indent: 50px;">
+    Mas, independentemente de onde você esteja em sua jornada, é sempre importante lembrar de rir um pouco. Afinal, o humor é o melhor remédio para as coisas mais sérias da vida.
+  </p>
+  <p style="font-size: 18px; text-indent: 50px;">
+    Imagine-se em uma situação em que você está tentando descobrir sua verdadeira identidade. Talvez você tenha experimentado uma variedade de hobbies, comido um monte de comida estranha ou até mesmo tentado uma nova personalidade por um dia.
+  </p>
+  <p style="font-size: 18px; text-indent: 50px;">
+    A verdade é, a auto-descoberta é uma jornada divertida e louca que deve ser apreciada ao máximo. Então, ria, divirta-se e não tenha medo de experimentar novos caminhos em sua jornada de auto-descoberta.
+  </p>
+  <p style="font-size: 18px; text-align: center;">
+    <i>A jornada de auto-descoberta é para ser apreciada, então divirta-se e tenha um bom riso!</i>
+  </p>
+  <p style="font-size: 22px; text-align: center;">
+    É importante <a href="https://www.algunsite.com/informacao-sobre-direitos-lgbtqi+" target="_blank" style="text-decoration: underline; font-weight: bold; color: blue;">INFORME-SE</a> sobre os direitos da comunidade LGBTIQ+.
+  </p>
+  <html>
+   <head>
+      <style>
+         .help-button {
+            padding: 20px 40px;
+            font-size: 20px;
+            background-color: green;
+            color: white;
+            border: none;
+            border-radius: 10px;
+            cursor: pointer;
+         }
+      </style>
+   </head>
+   <body>
+      <button class="help-button" onclick="openHelpMap()">Precisa de ajuda?</button>
+      <script>
+         function openHelpMap() {
+            window.open("https://www.google.com/maps/search/apoio+a+crian%C3%A7a+e+adolescente", "_blank");
+         }
+      </script>
+   </body>
+</html>
